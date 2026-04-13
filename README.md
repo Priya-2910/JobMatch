@@ -63,3 +63,27 @@ Step 3 – Run the application
 python app-ai.py
 Step 4 – Open in browser
 http://127.0.0.1:5000
+
+📌 Key Highlights
+AI-driven job recommendation system
+Clean and modular architecture
+Easy to use and extend
+Beginner-friendly implementation
+🔮 Future Enhancements
+Resume upload and analysis
+Integration with job platforms
+Advanced ML-based recommendations
+User authentication system
+👩‍💻 Author
+
+Lakshmi Priya
+
+📄 License
+
+This project is for educational purposes.
+
+🙌 Acknowledgement
+
+Inspired by modern AI-powered recommendation systems and career assistance platforms.
+
+
